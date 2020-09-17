@@ -1,0 +1,24 @@
+(base) Rods-Air:PyPoll rodking$ python main.py 
+Election Results
+--------------------------
+Total Votes: 3521002
+--------------------------
+Candidate: 0 (1)
+Khan: 63 (2218231)
+Correy: 20 (704200)
+Li: 14 (492940)
+O'Tooley: 3 (105630)
+--------------------------
+Winner: Khan
+--------------------------
+(base) Rods-Air:PyPoll rodking$ 
+
+
+
+
+
+
+
+
+
+
